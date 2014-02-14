@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Topanga Forest B skybox
+  m_Shader: {fileID: 4800000, guid: 5e0363634170e4adfacfcdb48cf194af, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: _Intensity
+        second: 1.5
+    m_Colors:
+      data:
+        first:
+          name: _SHAr
+        second: {r: .0784369558, g: .304146498, b: -.312228531, a: .715391219}
+      data:
+        first:
+          name: _SHAg
+        second: {r: .0653640479, g: .549987793, b: -.22051917, a: .793071568}
+      data:
+        first:
+          name: _SHAb
+        second: {r: .0874141231, g: .640560091, b: -.0963285342, a: .68055141}
+      data:
+        first:
+          name: _SHBr
+        second: {r: -.0156845637, g: .174984619, b: -.133698985, a: -.182008907}
+      data:
+        first:
+          name: _SHBg
+        second: {r: -.000551767007, g: .129135594, b: -.228389159, a: -.173537195}
+      data:
+        first:
+          name: _SHBb
+        second: {r: .046933759, g: .109768167, b: -.279757142, a: -.119459622}
+      data:
+        first:
+          name: _SHC
+        second: {r: -.0368168876, g: -.0911409035, b: -.15549691, a: 0}
